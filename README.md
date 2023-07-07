@@ -21,3 +21,4 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 - Parisha Sai Teja
 - Hari Priya Chakati
 - Pranav Bhargav Reddy KR
+- Nikhil Lokesh Epuri
