@@ -19,3 +19,4 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 - Lakshmitha Ravindranath 
 - Taranpreet Singh
 - Parisha Sai Teja
+- Hari Priya Chakati
