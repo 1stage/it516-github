@@ -15,6 +15,8 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 - Aryan Desai
 
 ### IT-516-02: Thursday Evenings
+#### This is my favorite class
+
 - Ian Relecker
 - Lakshmitha Ravindranath 
 - Taranpreet Singh
