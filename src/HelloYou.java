@@ -23,5 +23,6 @@ public class HelloYou {
         String myName = args[1];
         StdOut.println("Hello " + yourName + "!");
         StdOut.println("Sincerely, " + myName);
+        StdOut.println("PS: Java rules!");
     }
 }
